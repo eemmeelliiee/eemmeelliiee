@@ -6,9 +6,9 @@ My name is Emelie and I am 21 years old. I am currently studying Informatics at 
 
 ## What I <3
 
-- Programming in general (but mostly Java and Lua)! ☕️ 
+- Programming in general (but mostly Java and Lua) ☕️ 
 - Teaching programming to others 👩‍🏫 
-- I also like to run an travel the world 🌎
+- I also like to run 🏃‍♀️ and travel the world! 🌎
 
 ## I am currently working on...
 
