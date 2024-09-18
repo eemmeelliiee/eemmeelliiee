@@ -2,13 +2,13 @@
 
 ### About me
 
-My name is Emelie and I am 21 years old. I am currently studying Informatics at Lund University while also teaching programming part-time at Hello World.
+My name is Emelie and I am 22 years old. I am currently studying Informatics at Lund University while also teaching programming part-time at Hello World in Malmö.
 
 ### What I 💜  
 
 - Programming in general (but mostly Java and Lua) ☕️ 
 - Teaching programming to others 👩‍🏫
-- I also like photography, singing and travelling the world! 🌎
+- I also like photography and music! 📷
 
 ### I am currently working on...
 
