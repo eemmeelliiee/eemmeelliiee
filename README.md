@@ -6,13 +6,14 @@ My name is Emelie and I am 22 years old. I am currently studying Informatics at 
 
 ### What I 💜  
 
-- Programming in general (but mostly Java and Lua) ☕️ 
+- Programming in general (but mostly Java and Python) ☕️ 
 - Teaching programming to others 👩‍🏫
 - I also like photography and music! 📷
 
 ### I am currently working on...
 
-- Some projects with JavaFX!
+- Advent of Code!
+- and some other projects...
 
 <!--
 **eemmeelliiee/eemmeelliiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
