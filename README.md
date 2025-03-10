@@ -7,7 +7,7 @@ My name is Emelie and I am 22 years old. I am currently studying Informatics @ L
 ### What I 💜  
 
 - Problem solving 🔍
-- Programming in general (especially Java and Python) ☕️🐍
+- Programming in general (especially Java, C# and Python) ☕️🐍
 - Teaching programming to others 👩‍🏫
 - I also like photography and music! 📷
 
