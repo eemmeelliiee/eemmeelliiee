@@ -6,10 +6,15 @@ My name is Emelie and I am 22 years old. I am currently studying Informatics @ L
 
 ### What I 💜  
 
-- Problem solving 🔍
-- Programming in general (especially Java, C# and Python) ☕️🐍
-- Teaching programming to others 👩‍🏫
-- I also like photography and music! 📷
+- 🔍 Problem solving
+- 👩‍💻 Programming in general (especially Java, C# and Python) ☕️🌐🐍
+- 👩‍🏫 Teaching programming to others
+- 📷 I also like photography and music
+
+- 🔭 I’m currently working on .NET MAUI projects using C# and integrating EF Core with MSSQL Server
+- ⚡ I’m also developing and working with RESTful APIs using .NET Web API, with C# and Java clients
+
+
 
 
 <!--
@@ -22,7 +27,6 @@ Here are some ideas to get you started:
 - Web development
 - and some other projects...
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
